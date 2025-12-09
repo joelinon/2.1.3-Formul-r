@@ -26,6 +26,7 @@ body{
     font-size: calc(var(--size) /15);
     border-radius: 20px;
     text-align: center;
+    background-color: #444444;
 }
 h1{
     text-decoration: underline 3px solid #646464;
